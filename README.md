@@ -62,3 +62,6 @@ Particle    |      X     |            |          |
   * Particle: Particle Argon
 
 <!-- END COMPATIBILITY TABLE -->
+
+url=https://github.com/adafruit/Adafruit_SSD1306
+adafruit/Adafruit SSD1306@^2.5.1
